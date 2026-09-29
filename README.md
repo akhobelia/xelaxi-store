@@ -1,36 +1,35 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Xelaxi Store
 
-## Getting Started
+A multilingual responsive e-commerce portfolio project built with Next.js, TypeScript and Tailwind CSS.
 
-First, run the development server:
+## Live Demo
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+https://xelaxi-store.vercel.app
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Features
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+- Responsive desktop and mobile design
+- Georgian, English and Russian language support
+- Dynamic product pages
+- Product catalog
+- WhatsApp ordering
+- Reusable product data
+- Deployed with Vercel
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## Tech Stack
 
-## Learn More
+- Next.js
+- TypeScript
+- Tailwind CSS
+- Git & GitHub
+- Vercel
 
-To learn more about Next.js, take a look at the following resources:
+## Project Purpose
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+Xelaxi Store is a real-world e-commerce portfolio project.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+Users can browse products, view individual product pages, switch between languages and contact the seller directly through WhatsApp.
 
-## Deploy on Vercel
+## Author
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+Aleksandre Khobelia
